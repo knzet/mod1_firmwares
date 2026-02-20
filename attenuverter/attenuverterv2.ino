@@ -1,6 +1,5 @@
 /*
-EURORACK DUAL INVERTING CV ATTENUATOR
-Arduino Nano
+knzet EURORACK DUAL INVERTING CV ATTENUATOR, for HAGIWO's MOD1
 
 Channel 1:
   A0 = Pot 1 (attenuation 0.0 → 1.0)
